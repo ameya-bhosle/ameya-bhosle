@@ -13,7 +13,7 @@ Hey there! I'm Ameya Bhosle, a student passionate about technology and academia.
 - Languages: Python, Java, JavaScript, C#, Kotlin, Swift
 - Frameworks: Django, Angular, React, Spring Boot, Express.JS
 - Tools: Git, Docker, Postman
-- Also familiar with major Cloud technologies (AWS, GCP), DevOps methodologies and Software Engineering with AI and ML Implementations.
+- Also familiar with Cloud Computing (AWS, GCP), DevOps methodologies and Software Engineering with AI and ML implementations.
 
 ## 💬 Get in Touch
 
