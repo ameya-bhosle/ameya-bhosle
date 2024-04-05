@@ -4,9 +4,9 @@ Hey there! I'm Ameya Bhosle, a student passionate about technology and academia.
 
 ## 🔭 Current Projects
 
-- [Project 1](link): Brief description.
-- [Project 2](link): Brief description.
-- [Project 3](link): Brief description.
+- S5 Minor Prject: Social App through DevOps Workflow - Chaha: https://github.com/ameya-bhosle/chaha_app
+- Coursera x IBM CI-CD Capstone: https://github.com/ameya-bhosle/ci-cd-final-project
+- Coursera x IBM TDD-BDD Capstone: https://github.com/ameya-bhosle/tdd-bdd-final-project
 
 ## 🌱 I'm Currently Learning
 
